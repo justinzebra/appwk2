@@ -11,7 +11,7 @@ export default function App() {
         <Text style={styles.textStyle}>
           Album
         </Text>
-
+.
         <Text style={styles.textStyle0}>
           ONE OK ROCK 人生×僕=
         </Text>
